@@ -1,118 +1,81 @@
-# Ahmed Maher
+# Hi, I'm Ahmed Maher 👋
 
 ### Senior Flutter Developer
 
-I build scalable, production-ready mobile applications for **iOS & Android** using Flutter.
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-7C7CFF?style=for-the-badge)](https://ahmed-maher-portfolio-ten.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/1ahmedmaher)
+[![GitHub followers](https://img.shields.io/github/followers/ahmedmaher15?style=for-the-badge)](https://github.com/ahmedmaher15)
 
-With **4+ years of professional experience**, I focus on clean architecture, maintainable codebases, high-performance UI, real-time applications, and reliable production releases.
+Senior Flutter Developer with **4+ years of professional experience** building scalable, production-ready applications for iOS and Android.
 
-🌍 Egypt  
-💼 Open to Flutter opportunities  
-🌐 Portfolio: [ahmed-maher-portfolio-ten.vercel.app](https://ahmed-maher-portfolio-ten.vercel.app)  
-💼 LinkedIn: [linkedin.com/in/1ahmedmaher](https://linkedin.com/in/1ahmedmaher)
-
----
-
-## About Me
-
-- Senior Flutter Developer with 4+ years of experience
-- Building and maintaining production mobile applications
-- Experience delivering apps from architecture to store deployment
-- Strong focus on Clean Architecture and scalable project structures
-- Experienced with complex business flows and real-time applications
-- Published and maintained applications on Google Play and App Store
+I focus on:
+- Clean Architecture
+- High-performance Flutter applications
+- REST API integrations
+- Firebase
+- Real-time features
+- Scalable UI systems
+- App Store & Google Play releases
 
 ---
 
-## Tech Stack
+## 🛠 Tech Stack
 
-### Mobile
-`Flutter` `Dart`
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-### State Management
-`Bloc` `Cubit` `Provider` `GetX`
-
-### Architecture
-`Clean Architecture` `SOLID Principles`
-
-### Backend & APIs
-`Firebase` `REST APIs` `Dio`
-
-### Firebase
-`Authentication` `Firestore` `FCM` `Storage`
-
-### Engineering
-`Git` `GitHub` `CI/CD` `Performance Optimization`
-
-### Release
-`Google Play` `App Store`
+`Bloc` `Cubit` `Provider` `GetX`  
+`Clean Architecture` `SOLID`  
+`REST API` `Dio` `Firebase Auth` `Firestore` `FCM`
 
 ---
 
-## Professional Experience
+## 💼 Experience
 
 ### Senior Flutter Developer — MIST Labs
 **Feb 2025 — Present**
 
-Building and maintaining scalable production mobile applications with a focus on architecture, performance and complex business flows.
-
 ### Senior Flutter Developer — Takka
 **Jan 2024 — Feb 2025**
-
-Led Flutter development across a complete food-delivery ecosystem:
-
-- Customer Application
-- Delivery Driver Application
-- Restaurant Application
-
-Worked on real-time order tracking, delivery workflows, shared architecture and production releases.
 
 ### Flutter Developer — Const-Tech
 **2021 — 2024**
 
-Built and maintained Flutter applications for multiple clients, integrated REST APIs, refactored legacy applications and handled App Store / Google Play releases.
+---
+
+## 🚀 Selected Projects
+
+- Takka
+- Takka Delivery
+- Takka Restaurant
+- Truck World
+- Carsy
+- OneShot
+- TeamWork Arabic Freelancers
+- Top1Market
+- Bnaa
 
 ---
 
-## Selected Projects
+## 📊 GitHub Stats
 
-### Takka
-Food delivery platform with real-time ordering and tracking.
+![Ahmed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmedmaher15&show_icons=true&theme=tokyonight)
 
-### Takka Delivery
-Driver routing, location tracking and delivery operations application.
-
-### Takka Restaurant
-Restaurant order and delivery management application.
-
-### Truck World
-Multi-application logistics ecosystem for managers, employees and drivers.
-
-### Carsy
-Automotive marketplace application.
-
-### OneShot
-Sports competition and rewards mobile application.
-
-### TeamWork Arabic Freelancers
-Arabic freelancer marketplace platform.
-
-### Top1Market
-Marketplace application for products and services.
-
-### Bnaa
-Two-sided services marketplace.
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedmaher15&layout=compact&theme=tokyonight)
 
 ---
 
-## What I Focus On
+## 🔥 GitHub Streak
 
-```text
-Clean Architecture
-Scalable Flutter Applications
-Responsive & Adaptive UI
-REST API Integration
-Firebase
-Real-time Features
-Performance Optimization
-Production Deployment
+![GitHub Streak](https://streak-stats.demolab.com?user=ahmedmaher15&theme=tokyonight)
+
+---
+
+## 🌐 Connect With Me
+
+- Portfolio: https://ahmed-maher-portfolio-ten.vercel.app
+- LinkedIn: https://linkedin.com/in/1ahmedmaher
+- Email: am2778209@gmail.com
