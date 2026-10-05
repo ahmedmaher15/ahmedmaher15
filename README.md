@@ -62,7 +62,7 @@ I focus on:
 
 ## 📊 GitHub Stats
 
-![Ahmed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmedmaher15&show_icons=true&theme=tokyonight)
+![Ahmed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmedmaher15&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedmaher15&layout=compact&theme=tokyonight)
 
